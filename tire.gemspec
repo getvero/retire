@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "tire/version"
 
 Gem::Specification.new do |s|
-  s.name        = "tire"
+  s.name        = "retire"
   s.version     = Tire::VERSION
   s.platform    = Gem::Platform::RUBY
   s.summary       = "Ruby client for Elasticsearch"
